@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:C.\SDK's\StarPRNT_Android_SDK_V5_11_0\StarPRNT_Android_SDK_V5_11_0\Software\SDK\app\libs\starmgsio.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/starmgsio.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

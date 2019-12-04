@@ -1,0 +1,7 @@
+#Mon Nov 25 12:23:57 CST 2019
+base.0=C\:\\SDK's\\StarPRNT_Android_SDK_V5_11_0\\StarPRNT_Android_SDK_V5_11_0\\Software\\SDK\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\SDK's\\StarPRNT_Android_SDK_V5_11_0\\StarPRNT_Android_SDK_V5_11_0\\Software\\SDK\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :smcloudservices:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6e659eadc3b8b4ce27f7aeffc378b1c5/jetified-smcloudservices/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6e659eadc3b8b4ce27f7aeffc378b1c5/jetified-smcloudservices/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
